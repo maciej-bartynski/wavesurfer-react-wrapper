@@ -1,0 +1,9 @@
+.root {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.title {
+    display: inline;
+    color: red;
+}
